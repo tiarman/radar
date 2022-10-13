@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="3280b303-abdc-4419-985f-bada35bd6ab6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rader.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/installation5.html" beforeDir="false" afterPath="$PROJECT_DIR$/installation5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/installation6.html" beforeDir="false" afterPath="$PROJECT_DIR$/installation6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/installation7.html" beforeDir="false" afterPath="$PROJECT_DIR$/installation7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/installation8.html" beforeDir="false" afterPath="$PROJECT_DIR$/installation8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intallation.html" beforeDir="false" afterPath="$PROJECT_DIR$/intallation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,21 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.laravel-idea.search-composer-json": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Arman/Desktop/New folder (4)/Rader",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.laravel-idea.search-composer-json&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Arman/Desktop/New folder (4)/Rader&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Arman\Desktop\New folder (4)\Rader" />
@@ -65,7 +68,8 @@
       <workItem from="1665327828823" duration="1567000" />
       <workItem from="1665397141316" duration="7654000" />
       <workItem from="1665500786275" duration="2100000" />
-      <workItem from="1665503432139" duration="2276000" />
+      <workItem from="1665503432139" duration="2922000" />
+      <workItem from="1665674552972" duration="421000" />
     </task>
     <servers />
   </component>
